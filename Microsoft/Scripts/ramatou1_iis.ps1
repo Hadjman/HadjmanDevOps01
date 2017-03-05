@@ -1,5 +1,5 @@
 ﻿#Install .Net 4.5
-#Server 2016 includes .Net 4.6/4.5.x
+#Server 2016 includes .Net 4.6/4.5.x  on Windows 2016 Server
 
 #Install IIS Role
 Install-WindowsFeature -Name Web-Server -IncludeManagementTools
