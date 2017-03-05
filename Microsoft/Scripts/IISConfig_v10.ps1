@@ -1,10 +1,6 @@
 ﻿<#*****************************************************************************************************
 *    Script to Configure IIS websites :: version 1.0
-*    Developed By Kalith Guruge of Sri Lanka on 19/2/2017
-*
-*    This script only handle the given set of requirments and will not handle anything beyond its scope.
-
-*    Running the script is at your own risk.Developer holds no responsibility for any kind of data loss.
+*    For Windows 2016
 *
 *******************************************************************************************************#>
 Write-Host "Installing web erver [IIS] features...."
